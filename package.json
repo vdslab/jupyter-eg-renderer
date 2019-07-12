@@ -1,0 +1,14 @@
+{
+  "name": "jupyter-eg-renderer",
+  "version": "1.0.0",
+  "description": "jupyter-eg-renderer ===============================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "A.Morita <moriakijp@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eg-renderer": "1.2.0"
+  }
+}
